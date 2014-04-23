@@ -11,6 +11,8 @@ h1 {
 
 body {
   color: #333;
+	font-family: Calibri; 
+	font-size: 20px;
 }
 
 /* Common */
@@ -37,6 +39,11 @@ body {
 
 .logo, #gameArea {
   margin-bottom: 40px;
+}
+
+.ws-words li
+{
+	list-style-type: none;
 }
 
 .ws-area, .ws-words {
